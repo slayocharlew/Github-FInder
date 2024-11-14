@@ -105,7 +105,7 @@
     border-top: 4px solid #3498db;
     animation: spin 1s linear infinite, pulse 1.5s ease-in-out infinite;
   }
-  
+
   @keyframes pulse {
     0%, 100% {
       transform: scale(1);
